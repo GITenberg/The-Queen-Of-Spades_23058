@@ -23,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/Aleksandr_Pushkin
     - http://www.museum.ru/Pushkin/
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23058#The-Queen-Of-Spades
 gutenberg_bookshelf: Opera
 gutenberg_issued: '2007-10-17'
 gutenberg_type: Text
