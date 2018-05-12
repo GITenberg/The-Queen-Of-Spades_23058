@@ -1,0 +1,41 @@
+_repo: The-Queen-Of-Spades_23058
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Twitchell, H.
+    gutenberg_agent_id: '25645'
+    url: http://www.gutenberg.org/2009/agents/25645
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pushkin, Aleksandr Sergeevich
+    aliases:
+    - Pushkin, A. S. (Aleksandr Sergeevich)
+    - Poushkin, Alexander
+    - Пушкин, Александр Сергеевич
+    birthdate: 1799
+    deathdate: 1837
+    gutenberg_agent_id: '1457'
+    url: http://www.gutenberg.org/2009/agents/1457
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Aleksandr_Pushkin
+    - http://www.museum.ru/Pushkin/
+description: ''
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2007-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23058'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian fiction -- Translations into English'
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Gambling -- Fiction'
+title: The Queen Of Spades
+url: http://www.gutenberg.org/ebooks/23058
